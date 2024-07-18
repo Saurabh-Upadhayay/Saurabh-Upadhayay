@@ -4,14 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-Upadhayay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-      **Saurabhsahab/Saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- -🔭 I’m currently working on ...-->
-
 Hello, 
 
-I'm Saurabh Upadhayay, Software Development Engineer at Fi (Epifi Technologies). I am a passionate Software Development Engineer with experience in building innovative solutions and contributing to the development of various projects.
+I'm Saurabh Upadhayay, a Software Development Engineer at Fi (Epifi Technologies). I am a passionate Software Development Engineer with experience in building innovative solutions and contributing to the development of various projects.
 
 During my internships at Epifi Technologies and Ridecell, I gained hands-on experience in developing and implementing software solutions using technologies such as Golang, Python, Django, Docker, Microservices, and PostgreSQL. I have also honed my skills in areas such as object-oriented programming, data structures, and algorithms.
 
@@ -23,8 +18,9 @@ If you are looking for a motivated and skilled Software Development Engineer wit
 
 Thank you for visiting my profile, and I look forward to connecting with professionals in the software development community.
 
-Best regards,
+Best regards,  
 Saurabh Upadhayay
+
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -33,19 +29,42 @@ Saurabh Upadhayay
 - ⚡ Fun fact: ...
  -->
  
- ### Tools/Technologies I work with 🛠️
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30px"></span>
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="30px"></span>&nbsp;
-<!--  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span> -->
+### Tools/Technologies I work with 🛠️
+
+#### Programming Languages:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+
+#### Frameworks and Tools:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protobuf/protobuf-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swing/swing-original.svg" width="30px"></span>&nbsp;
+
+#### Databases:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cockroachdb/cockroachdb-original.svg" width="30px"></span>&nbsp;
+
+#### Concepts:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oop/oop-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/data-structures/data-structures-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/system-design/system-design-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/distributed-systems/distributed-systems-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microservices/microservices-original.svg" width="30px"></span>&nbsp;
+
+### Certifications:
+- Algorithms
+- Developing Soft Skills and Personality
+- Patent Law for Engineers and Scientists
+
 <hr>
