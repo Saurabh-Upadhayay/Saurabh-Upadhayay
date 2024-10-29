@@ -6,7 +6,7 @@
 
 Hello, 
 
-I'm Saurabh Upadhayay, a Software Development Engineer at Fi (Epifi Technologies). I am a passionate Software Development Engineer with experience in building innovative solutions and contributing to the development of various projects.
+I'm Saurabh Upadhayay, a Software Development Engineer at Lambdatest. I am a passionate Software Development Engineer with experience in building innovative solutions and contributing to the development of various projects.
 
 During my internships at Epifi Technologies and Ridecell, I gained hands-on experience in developing and implementing software solutions using technologies such as Golang, Python, Django, Docker, Microservices, and PostgreSQL. I have also honed my skills in areas such as object-oriented programming, data structures, and algorithms.
 
