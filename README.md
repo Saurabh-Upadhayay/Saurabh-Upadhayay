@@ -10,7 +10,7 @@ I'm **Saurabh Upadhayay**, a Software Development Engineer at **LambdaTest**.
 
 🚀 Passionate about backend development, system design, and DevOps tooling, I specialize in building scalable, performant systems and have actively contributed to both public and private repositories.
 
-💼 Previously interned at **Epifi Technologies** and **Ridecell**, where I worked on Golang, Python, Django, Docker, and Microservices architectures.
+💼 Previously worked at **Epifi Technologies** and **Ridecell**, where I worked on Golang, Python, Django, Docker, and Microservices architectures.
 
 🧠 I love solving algorithmic problems, mentoring others at **Masai**, and continuously learning new systems & technologies.
 
